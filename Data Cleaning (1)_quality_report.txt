@@ -1,0 +1,898 @@
+======================================================================
+EXCEL DATA QUALITY REPORT
+Source file : /home/safepro/Downloads/Data Cleaning (1).xlsx
+======================================================================
+
+SHEET: SKDC Micro 2020-21
+----------------------------------------------------------------------
+
+  GARBLED ENCODING ROWS (27 total):
+    Row  159  |  Column: Name of the beneficiaries
+             Value : D¢®PÀëöäªÀÄä PÉÆÃA ªÉAPÀlgÉÆÃt¥Àà
+    Row  159  |  Column: Address
+             Value : ZAPÀªÉÃ®Ä,ZÁPÀªÉÃ1/4ÀÄ ºÉÆÃ§1/2, ̈ÁUÉÃ¥À°è vÆèPÄÄ®.
+    Row  160  |  Column: Name of the beneficiaries
+             Value : ®QëöäÃzÉÃ« PÉÆÃA ¥ÉzÀÝgÀªÀt¥Àà
+    Row  160  |  Column: Address
+             Value : ZAPÀªÉÃ®Ä,ZÁPÀªÉÃ1/4ÀÄ ºÉÆÃ§1/2, ̈ÁUÉÃ¥À°è vÆèPÄÄ®.
+    Row  161  |  Column: Name of the beneficiaries
+             Value : D¢®PÀëöäªÀÄä PÉÆÃA PÀÈμÀÚ¥Àà, 
+    Row  161  |  Column: Address
+             Value : ZAPÀªÉÃ®Ä,ZÁPÀªÉÃ1/4ÀÄ ºÉÆÃ§1/2, ̈ÁUÉÃ¥À°è vÆèPÄÄ®.
+    Row  162  |  Column: Name of the beneficiaries
+             Value : ®QëöäÃzÉÃ« PÉÆÃA £ÁUÀgÁdÄ
+    Row  162  |  Column: Address
+             Value : ZAPÀªÉÃ®Ä,ZÁPÀªÉÃ1/4ÀÄ ºÉÆÃ§1/2, ̈ÁUÉÃ¥À°è vÆèPÄÄ®.
+    Row  163  |  Column: Name of the beneficiaries
+             Value : F±ÀégÀªÀÄä PÉÆÃA «.ªÉAPÀmÉÃ±ï
+    Row  163  |  Column: Address
+             Value : ZAPÀªÉÃ®Ä,ZÁPÀªÉÃ1/4ÀÄ ºÉÆÃ§1/2, ̈ÁUÉÃ¥À°è vÆèPÄÄ®.
+    Row  164  |  Column: Name of the beneficiaries
+             Value : ®QëöäÃ£À£ÀªÀÄä PÉÆÃA ªÉAPÀlgÀªÀt
+    Row  164  |  Column: Address
+             Value : ZAPÀªÉÃ®Ä,ZÁPÀªÉÃ1/4ÀÄ ºÉÆÃ§1/2, ̈ÁUÉÃ¥À°è vÆèPÄÄ®.
+    Row  165  |  Column: Name of the beneficiaries
+             Value : ±ÁAvÀªÀÄä PÉÆÃA gÀ«
+    Row  165  |  Column: Address
+             Value : ZAPÀªÉÃ®Ä,ZÁPÀªÉÃ1/4ÀÄ ºÉÆÃ§1/2, ̈ÁUÉÃ¥À°è vÆèPÄÄ®.
+    Row  166  |  Column: Name of the beneficiaries
+             Value : gÀªÀtªÀÄä PÉÆÃA a£ÁßªÀ®¥Àà
+    Row  166  |  Column: Address
+             Value : ZAPÀªÉÃ®Ä,ZÁPÀªÉÃ1/4ÀÄ ºÉÆÃ§1/2, ̈ÁUÉÃ¥À°è vÆèPÄÄ®.
+    Row  167  |  Column: Name of the beneficiaries
+             Value : ̧ÀÄUÀt PÉÆÃA ̧ÀÄ§âgÁAiÀÄ¥Àà,
+    Row  167  |  Column: Address
+             Value : ZAPÀªÉÃ®Ä,ZÁPÀªÉÃ1/4ÀÄ ºÉÆÃ§1/2, ̈ÁUÉÃ¥À°è vÆèPÄÄ®.
+    Row  168  |  Column: Name of the beneficiaries
+             Value : « ±À²PÀ ̄Á PÉÆÃA ²æÃ¤ªÁ ̧ï
+    Row  168  |  Column: Address
+             Value : ZAPÀªÉÃ®Ä,ZÁPÀªÉÃ1/4ÀÄ ºÉÆÃ§1/2, ̈ÁUÉÃ¥À°è vÆèPÄÄ®.
+    Row  169  |  Column: Name of the beneficiaries
+             Value : ºÀj±ÉÆÃzsÀ£Á f « © £ï gÁªÀÄPÀÈμÀã
+    Row  169  |  Column: Address
+             Value : ZAPÀªÉÃ®Ä,ZÁPÀªÉÃ1/4ÀÄ ºÉÆÃ§1/2, ̈ÁUÉÃ¥À°è vÆèPÄÄ®.
+    Row  170  |  Column: Name of the beneficiaries
+             Value : gÀªÀtªÀÄä PÉÆÃA £À¹À¹AºÀ¥Àà
+    Row  170  |  Column: Address
+             Value : ZAPÀªÉÃ®Ä,ZÁPÀªÉÃ1/4ÀÄ ºÉÆÃ§1/2, ̈ÁUÉÃ¥À°è vÆèPÄÄ®.
+    Row  171  |  Column: Name of the beneficiaries
+             Value : GvÀÛªÀÄä PÉÆÃA ¹ÃvÀ¥Àà
+    Row  171  |  Column: Address
+             Value : ZAPÀªÉÃ®Ä,ZÁPÀªÉÃ1/4ÀÄ ºÉÆÃ§1/2, ̈ÁUÉÃ¥À°è vÆèPÄÄ®.
+    Row  172  |  Column: Address
+             Value : ZAPÀªÉÃ®Ä,ZÁPÀªÉÃ1/4ÀÄ ºÉÆÃ§1/2, ̈ÁUÉÃ¥À°è vÆèPÄÄ®.
+
+  KANNADA UNICODE ROWS (1 total):
+    Row   86  |  Column: Address
+             Value : #3ಎ, 2ನೇ ಕ್ರಾಸ್, ಬಿ.ಚಂದ್ರಪ್ಪ ನಗರ, ಬೆಂಗಳೂರು
+
+SHEET: SKDC Airavata 2020-21
+----------------------------------------------------------------------
+
+  EMPTY CELLS (13 total):
+    Row   78  |  Column: Number
+    Row   78  |  Column: District
+    Row   78  |  Column: Name of the beneficiaries
+    Row   78  |  Column: Unit Cost
+    Row   78  |  Column: Loan Amount
+    Row   78  |  Column: Subsidy:
+    Row  182  |  Column: Address
+    Row  183  |  Column: Address
+    Row  184  |  Column: Address
+    Row  185  |  Column: Address
+    Row  296  |  Column: Unit Cost
+    Row  296  |  Column: Loan Amount
+    Row  296  |  Column: Subsidy:
+
+  GARBLED ENCODING ROWS (240 total):
+    Row   25  |  Column: Name of the beneficiaries
+             Value : ±ÀÁ¹Ûç ̧ÀÀ¥ÀºÉÆ ̧ÀªÀÄ¤ © £ï ̧ÀAUÀ¥ÀºÉÆ ̧ÀªÀÄ¤, 
+    Row   25  |  Column: Address
+             Value : PÀA ̈ÁV UáæªÀÄzÀ §§ ̄ÉÃ±ÀégÀ ºÉÆÃ§1/2, «dAiÀ¥ÀÄgÀ vÁ. « dAiÀ¥ÀÄàägÀ f ̄Éè.
+    Row   26  |  Column: Name of the beneficiaries
+             Value : C¤ ® PÀÄªÀiÁgÀ ® . gÀvÁßPÀgÀ, 
+    Row   26  |  Column: Address
+             Value : EAUÀ¼ÀV ಗ್ರಾಮ , »¥ÀàgÀV vÁ®ÆèPÀÄ
+    Row   27  |  Column: Name of the beneficiaries
+             Value : C¤ ® AiÀÄ®è¥Àà ̧ÁUÀgÀ, AiÉÆÃUÁ¥ÀÄgÀ P
+    Row   27  |  Column: Address
+             Value : ಕಾ ̄ÉÆÃ¤, ªÁqïð £ÀA.16, ¹AzÀV gÀ ̧ÉÛ, «dAiÀÄ¥ÀgÀ
+    Row   28  |  Column: Name of the beneficiaries
+             Value : ̧ÀÄzsápàgï §£À ̧ÉÆÃqÉ © £ï ªÀÄºÁzÉÃªÀ 
+    Row   28  |  Column: Address
+             Value : §£À ̧ÉÆÃqÉ, ಇಂr vÁ. ZÀqÀZÀt
+    Row   36  |  Column: Name of the beneficiaries
+             Value : ̧ Á|| «ÄnÖªÀÄ ̄ ÁÌ¥ÀÄgÀ, vÁ||f|| gÁAiÀÄZÀÆgÀÄ
+    Row   36  |  Column: Address
+             Value : gÀAfvÀ PÀÄªÀiÁgï ªÉÊ. © £ï £ÀgÀ ̧À¥À¥à 
+    Row   40  |  Column: Address
+             Value : 28 gÁfÃªïUÁA¢üPÁ ̄ ÉÆÃ¤ ¹ ̄ ïÌ¥sÁåPÀÖj JzÀÄgÀÄ ªÉÄÊ ̧ ÀÆgÀÄ
+    Row   41  |  Column: Address
+             Value : 121 ªÀiÁ£À ̧À£ÀUÀgÀ PÀÄzÀÄgÉªÀiÁ1/4À
+    Row   42  |  Column: Address
+             Value : 05 ºÉ ̈ Áâ1/4ï PÁ ̄ ÉÆÃ¤ § ̧ ÀªÀ£ÀUÀÄr ªÉÄÊ ̧ ÀÆgÀÄ
+    Row   43  |  Column: Address
+             Value : 107§ ̧ ÀªÀ£ÀUÀÄr gÉÆÃqï ºÉ ̈ Áâ1/4ï PÁ ̄ ÉÆÃ¤ ªÉÄÃlUÀ1/2î ªÉÄÊ ̧ ÀÆgÀÄ
+    Row   44  |  Column: Address
+             Value : ¹.«.gÀÉÆÃqï 10£ÉÃ PÁæ ̧ ï ªÀÄArªÉÆºÀ ̄ Áè ªÉÄÊ ̧ ÀÆgÀÄ
+    Row   45  |  Column: Address
+             Value : 174 £ÀªÉÇÃzÀAiÀÄ §qÁªÀuÉ eÉ¦£ÀUÀgÀ ªÉÄÊ ̧ÀÆgÀÄ
+    Row   46  |  Column: Address
+             Value : 1306 ¹ ̄ïÌ¥sÁåPÀÖj JzÀÄgÀÄ ªÉÄÊ ̧ÀÆgÀÄ
+    Row   47  |  Column: Address
+             Value : 63 ¦. PÉ. PÁ ̄ ÉÆÃ¤ ¥ÀÄ°PÉÃ² gÉÆÃqï ªÀÄAr ªÉÆºÀ ̄ Áè ªÉÄÊ ̧ ÀÆgÀÄ
+    Row   48  |  Column: Address
+             Value : 24 § ̧ÀªÀ£ÀUÀÄr gÉÆÃqï ºÉ ̈Áâ1/4ïPÁ ̄ÉÆÃ¤ ªÉÄÊ ̧ÀÆgÀÄ
+    Row   49  |  Column: Address
+             Value : 5 4£ ªÉÄÃ£ï 16£éã PÁæ ̧ï ¦. FRI. FRI ̄ÉÆÃ¤ «zÁågÀtå¥ÀÄgÀA ªÉÄÊ ̧ÀÆgÀÄ
+    Row   50  |  Column: Address
+             Value : 10 2£ÉÃ ªÉÄÃ£ï ºÉ ̈Áâ1/4ï PÁ ̄ÉÆÃ¤ § ̧ÀªÀ£ÀUÀÄr ªÉÄÊ ̧ÀÆgÀÄ
+    Row   51  |  Column: Address
+             Value : J ̧ï.¦. Dgï.FRI ̄ÉÆÃ¤ ¦jAiÀiÁ¥ÀlÖt
+    Row   52  |  Column: Address
+             Value : zÉÆqÀØPÀªÀÄgÀªÀ1/2î ¦jAiÀiÁ¥ÀlÖt.
+    Row   53  |  Column: Address
+             Value : ²ªÁf gÉÆÃqï ºÉZï.r.PÉÆÃmÉ
+    Row   54  |  Column: Address
+             Value : ²ªÁf gÉÆÃqï ºÉZï.r.PÉÆÃmÉ
+    Row   55  |  Column: Address
+             Value : ºÉZï.©.gÉÆÃqï ºÉZï.r.PÉÆÃmÉ
+    Row   56  |  Column: Address
+             Value : zÉÃ«gÀªÀÄä£ÀºÀ1/2îºÀÄAr £ÀAd£ÀUÀÆqÀÄ
+    Row   57  |  Column: Address
+             Value : 972 ªÁqïð£ÀA 12 £ÀAd£ÀUÀÆqÀÄ mË£ï
+    Row   58  |  Column: Address
+             Value : GÁf PÁ ̄ÉÆÃ¤ £ÀAd£ÀUÀÆqÀÄ 
+    Row   59  |  Column: Address
+             Value : 1032 ªÁqïð£ÀA 12 £ÀAd£ÀUÀÆqÀÄ mË£ï
+    Row   60  |  Column: Address
+             Value : ¦. FRI. FRI ¤ éæã¤ ªÁqï£àa 5 ªàä¤PÁ1/4ÀªÀÄä zÉÃªÀ ̧áü£À PÉDgï £ÀUÀgÀ mË£ï
+    Row   61  |  Column: Address
+             Value : ¥ËgÀPÁ«ÄðPÀgÀ PÁ ̄ÉÆÃ¤ PÉ. Dgï.£ÀUÀgÀ mË£ï
+    Row   62  |  Column: Address
+             Value : ¥ËgÀPÁ«ÄðPÀgÀ PÁ ̄ÉÆÃ¤ PÉ. Dgï.£ÀUÀgÀ mË£ï
+    Row   63  |  Column: Address
+             Value : ¦. FRI. FRI ¤ éæã¤ ªÁqï£àa 5 ªàä¤PÁ1/4ÀªÀÄä zÉÃªÀ ̧áü£À PÉDgï £ÀUÀgÀ mË£ï
+    Row   64  |  Column: Address
+             Value : ºÀÄt ̧ÀÆgÀÄ
+    Row   65  |  Column: Address
+             Value : 401 ¦. FRI. FRI ̄ÉÆÃ¤ ºÀÄt ̧ÀÆgÀÄ mË£ï
+    Row   66  |  Column: Address
+             Value : ̈ sÀgÀvÀªÁr UÁæªÀÄ, zÉÆqÀØºÉdÆÓgÀÄ ¥ÉÆÃ ̧ ïÖ, ºÀ£ÀUÉÆÆÃaqÃqÀÄ ºÉÆÃ§1/2, ºÀÄt ̧ À
+    Row   67  |  Column: Address
+             Value : ̧ÀuÉÚÃUËqÀ FRI ̄ÉÆÃ¤
+    Row   75  |  Column: Name of the beneficiaries
+             Value : ̧ÀÄ§ææªÀÄtå © £ï £ÀAdÄAqÀAiÀÄå 
+    Row   75  |  Column: Address
+             Value : PÁ1/4À¥Àà §qÁªÀuÉ, DgïnN D¦üÃ̧ï ªÀÄÄA ̈sÁUÀ, ªÀÄAqÀå f ̄Éè
+    Row   76  |  Column: Name of the beneficiaries
+             Value :  ¹zÀÝgÁdÄ JA © £ï ªÀÄ®èAiÀÄå 
+    Row   76  |  Column: Address
+             Value : PÁ1/4À¥Àà §qÁªÀuÉ, DgïnN D¦üÃ̧ï ªÀÄÄA ̈sÁUÀ, ªÀÄAqÀå f ̄Éè
+    Row  156  |  Column: Address
+             Value : #1145, ̧ ÁgÁgÁ¬So ¥Á1/4Àå, qÁ.²ÃªÀgÁªÀiï PÁgÀAvï £ÀUÀgÀ
+    Row  157  |  Column: Address
+             Value : #145, ̈Á®UÀÆgÀÄ PÁ ̄ÉÆÃ¤, or ̄Á ºÉÆÃ§1/2, ̈ÉAUÀ1/4ÀÆgÀÄ
+    Row  158  |  Column: Address
+             Value : #275, ̈ Á®UÀÆgÀÄ PÁ ̄ ÉÆÃ¤, ̈ ÉAUÀ1/4ÀÆgÀÄ
+    Row  159  |  Column: Address
+             Value : qÁ. CA ̈ÉãqÀÌgï ̄ÉÃOmï, £ÁUÀªÁgÀ
+    Row  160  |  Column: Address
+             Value : #51, 3£ÉÃ PÁæ ̧ï, ZÉ®ÄªÀ¥Àà UÁqÀð£ï, PÉ ¦ CUÀæºÁgÀ, ̈ÉAUÀ1/4ÀÆgÀÄ
+    Row  161  |  Column: Address
+             Value : #55/10, 1£ÉÃ ªÉÄÊ£ï gÉÆÃqï, ̈sÀÄªÀ£ÉÃ±Àéj £ÀUÀgÀ, ̈ÉAUÀ1/4ÀÆgÀÄ
+    Row  162  |  Column: Address
+             Value : qÁ. CA ̈ÉãqÀÌgï ̄ÉÃOmï, £ÁUÀªÁgÀ
+    Row  163  |  Column: Address
+             Value : #10, 13£ÉÃ PÁæ ̧ï, « J ̧ï UÁqÀð£ï, eÉeÉDgï £ÀUÀgÀ, ̈ÉAUÀ1/4ÀÆgÀÄ
+    Row  164  |  Column: Address
+             Value : #50, PÉJ ̧ï¹ © PÁélð ̧ï, eÉÊ ̈sÀÄªÀ£ÉÃ±Àéj £ÀUÀgÀ, £ÀA¢¤ ̄ÉÃOmï, ̈ÉAUÀ1/4ÀÆgÀÄ
+    Row  165  |  Column: Address
+             Value : #33, PÉJ ̧ï¹ © PÁélð ̧ï, éÉÊ ̈sÀÄªÀ£ÉÃ±Àéj £ÀUÀgÀ, £ÀA¢¤ ̄ÉÃOmï, ̈ÉAUÀ1/4ÀÆgÀÄ
+    Row  166  |  Column: Address
+             Value : #30, ©J ̧ïAiÀÄÄ¦ PÁélð ̧ï, d ̧Áä ªÀÄ¢gï, ̈ÉAUÀ1/4ÀÆgÀÄ
+    Row  167  |  Column: Address
+             Value : #697, ¦J ̧ïPÉ £ÁÀÀÄØ gÉÆÃqï, PÁPïìmË£ï, ̈ÉAUÀ1/4ÀÀGÀÄ
+    Row  168  |  Column: Address
+             Value : #556, 14£ÉÃ ªÉÄÊ£ï, UÉÆÃPÀÄ® 1£ÉÃ ºÀAvÀvÀ, ªÀÄwÛPÉgÉ, ̈ÉAUÀ1/4ÀÆgÀÄ
+    Row  177  |  Column: Name of the beneficiaries
+             Value : ¥ÀÀæ¢Ã¥À vÀAzÉ ±à²PÁAvÀ
+    Row  177  |  Column: Address
+             Value :  ̧Á|| amÁÖ (FRI) vÁ|| ̈sÁ°Ì f|| ©ÃzÀgï
+    Row  194  |  Column: Name of the beneficiaries
+             Value : ̧ÉÆÃªÉÄÃ±À © £ï ªÀÄ°èPÁdÄð£À, 
+    Row  194  |  Column: Address
+             Value : 26£ÉÃ ªÁqïð, ̈ÉÊ¥Á ̧ï gÀ ̧ÉÛ, D±ÀæÀÀÄ PÁ ̄ÉÆÃ¤, ²gÀUÀÄ¥Àà vÁ|| §1/4Áîj f ̄Éè
+    Row  195  |  Column: Name of the beneficiaries
+             Value : PÀÉ. ̧ÀÄzÀ±ÀïÀð£À UÀgÀÄ£ÁxÀ © £ï PÉ «ÃgÉÃ±À 
+    Row  195  |  Column: Address
+             Value : 26£ÉÃ ªÁqsïð ,²gÀUÀÄ¥Àà vÁ
+    Row  196  |  Column: Name of the beneficiaries
+             Value : gÀ«PÀÄªÀiÁgÀ © £ï PÉ. FgÀtÚ 
+    Row  196  |  Column: Address
+             Value : 30£ÉÃ ªÁqsïð, PÀ ̄Áåt ªÀÄAl¥À ºÀwÛgÀ, ²gÀUÀÄ¥Àà vÁ.
+    Row  197  |  Column: Name of the beneficiaries
+             Value : ªÉAPÀmÉÃ±À © £ï ¥ÀgÀªÉÄÄ±ÀegÀ¥àà 
+    Row  197  |  Column: Address
+             Value : 25£ÉÃ ªÁqïð, PÀ ̄Áåt ªÀÄAl¥À ºÀwÛgÀ ²gÀUÀÄ¥Àà vÁ.
+    Row  198  |  Column: Name of the beneficiaries
+             Value : ²æ ZÉÃvÀ£À ¥ÀgÀ ̧à¥À zÉÆqÀØªÀÄ¤ 
+    Row  199  |  Column: Name of the beneficiaries
+             Value : ²æÃ «£ÉÆÃzÀ ಶಿವಪ್ಪ ZÀÆj 
+    Row  200  |  Column: Name of the beneficiaries
+             Value : ²æÃ dUÀ¢Ã±ÀgÀªÀÄ¥Àà eÉÆÃUÀªÀÄä£ÀªÀªÀªÀªÀªÀÄ¥ÀªÀªÀªÀªÀ¢ÀªÀªÀ� 
+    Row  201  |  Column: Name of the beneficiaries
+             Value : ²æ ̧ÀAvÉÆÃμÀ fgÀ¥Àà ¤ÃgÀªÀÄ¤ 
+    Row  202  |  Column: Name of the beneficiaries
+             Value : ²æÃ.PÀÄ ̈ÉÃgÀ¥Àà wgÀPÀ¥Àà ºÉÆ ̧ÀªÀÄ¤ 
+    Row  203  |  Column: Name of the beneficiaries
+             Value : ²æÃ.ªÀÄAdÄ£ÁxÀ ¦üÃgÀ¥Àà ಅಡV£ÀªÀÄ¤ 
+    Row  204  |  Column: Name of the beneficiaries
+             Value : ²æ «ÃÉÃ±À azÁ£ÀAZÀ ªÀÄzÀj 
+    Row  205  |  Column: Name of the beneficiaries
+             Value : ²æ. UÉÆÃ«AzÀgÁd aAvÀ£Àß ̧ÀUÀ ̈Á ̄
+    Row  206  |  Column: Name of the beneficiaries
+             Value : ²æÃ ¹zÁÝxÀð ªÀ ̧ÀAvÀ ºÉÆ ̧ÀªÀÄ¤  
+    Row  207  |  Column: Name of the beneficiaries
+             Value : ²æÃ. CPÀëAiÀÄPÀÄªÀiÁgÀ ¤AUÀ¥Àà CªÀÄgÁ¥ÀÇgÀ 
+    Row  208  |  Column: Name of the beneficiaries
+             Value : ²æ.ºÀÄ ̧É£À¥À§À§À¥ÀªÀUÀgÀ£À1/4À 
+    Row  209  |  Column: Name of the beneficiaries
+             Value : ²æÃ AiÀÄ®è¥Ààà CAiÀÄå¥Àà UÀ§ÆâgÀ 
+    Row  210  |  Column: Name of the beneficiaries
+             Value : ²æÃ.gÁWÀªÉÃAzÀæ gÀªÉÄÃ±À gÁªÀÄAiÀÄå£ÀªÀgÀ  
+    Row  211  |  Column: Name of the beneficiaries
+             Value : ²æÃ.gÀ«ZÀAzÀæ ªÀÄjAiÀÄ¥Àà SÁ£Á¥ÀÇgÀ 
+    Row  212  |  Column: Name of the beneficiaries
+             Value : ²æÃ dAiÀÄ±ÀAPÀgÀ § ̧ÀªÀAvÀ¥Àà PÀnÖªÀÄ¤ 
+    Row  213  |  Column: Name of the beneficiaries
+             Value : ²æÃ.ªÀÄ ̄ÉèÃ±À ¤Ã®¥À§gÀzÁéqÀ 
+    Row  214  |  Column: Name of the beneficiaries
+             Value : ²æ. ¹zÁÝgÀÆqÀ ¤AUÀ¥Àà ªÀiÁzÀgÀ 
+    Row  227  |  Column: Name of the beneficiaries
+             Value : "dAiÀÄPÀÄªÀiÁgï gÁªÀÄZÀAzÀæ¥Àà 
+    Row  227  |  Column: Address
+             Value : UÀ§ÆâgÀÄ, ºÀÄ§â1/2î
+    Row  228  |  Column: Name of the beneficiaries
+             Value : PÀÈμÁÚ ¤d°AUÀ¥Àà 
+    Row  228  |  Column: Address
+             Value : DUÁ ̧É £ÉÃpágÀ £ÀUÀgÀ, ºÀ1/4ÉÃ ºÀÄ§â1/2î
+    Row  229  |  Column: Name of the beneficiaries
+             Value : £ÁUÀgÁd £À®è¥Àà, 
+    Row  229  |  Column: Address
+             Value : ̈ ÉAUÀ1/4ÀÆgÀÄ EA¢GÁ £ÀUÀgÀ, §APÁ¥ÀÄgÀ ZËPï, ºÀÄ§â1/2î
+    Row  230  |  Column: Name of the beneficiaries
+             Value : "ÃgÀ¥ÁPÀë¥Àà AiÀÄ®è¥Àà ªÀiÁzÀgÀ 
+    Row  230  |  Column: Address
+             Value : ºÀjd£À PÉÃj, ̈ÉÊjzÉÃªÀgÀPÉÆ¥Àà ºÀÄ§â1/2î
+    Row  255  |  Column: Name of the beneficiaries
+             Value : JA.²æÃ¤ªÁ ̧ ï © £ï ªÀÄÄ¤PÀÈμÀÚ¥Àà, 
+    Row  255  |  Column: Address
+             Value : FvÀªÀàÁPÀ®ºÀ1/2î. À ̧À ºÉÆÃ§1/2, aPAÌ§1/4Áî¥ÀÄgÀ vÁ®ÆèPÀÄ
+    Row  260  |  Column: Name of the beneficiaries
+             Value : £À¹AºÀ¥Àà « © £ï ªÉAPÀlgÁAiÀÄ¥Ààà, 
+    Row  260  |  Column: Address
+             Value : ªÁqïð £ÀA.22, ̈ÁUÉÃ¥À°è vÆèPÀÄ®mË£ï, ̈ÁUÉÃ¥À°è vÆèPÀÄ®
+    Row  261  |  Column: Name of the beneficiaries
+             Value : J£ï.F ªÀiÁgÀ¥Àà © £ï FgÀ¥Àà, 
+    Row  261  |  Column: Address
+             Value : £ÁgÉÃªÀÄzÉÝÃ¥À°è,    ¨ÁUÉÃ¥À°è vÁ®ÆèPÀÄ
+    Row  262  |  Column: Name of the beneficiaries
+             Value : gÀ« ¦ © £ï AiÀiÁªÀÄ£Àß, 
+    Row  262  |  Column: Address
+             Value : f.PÉÆvÀÆÛgÀÄ, £ÀUÀgÀUÉgÉ ºÉÆÃ§1/2, UËj©zÀ£ÀÆgÀÄ vÁ®ÆèPÀÄ
+    Row  263  |  Column: Name of the beneficiaries
+             Value : UÀAUÁzsÀ¥ÀÀà ¹ © £ï aPÁÌzÉ¥Àà, 
+    Row  263  |  Column: Address
+             Value : f.PÉÆvÀÆÛgÀÄ, £ÀUÀgÀUÉgÉ ºÉÆÃ§1/2, UËj©zÀ£ÀÆgÀÄ vÁ®ÆèPÀÄ
+    Row  264  |  Column: Name of the beneficiaries
+             Value : AiÀiÀªÀiA£ÁgÁAiÀÄt © £ï UÀAUÀ¥Àà, 
+    Row  264  |  Column: Address
+             Value : dgÀÄUÀºÀ1/2î, ̧ÁzÀ° ºÉÆÃ§1/2, ²qÀèWÀlÖ vÁ®ÆèPÀÄ
+    Row  265  |  Column: Name of the beneficiaries
+             Value : PÀ ̄Áåuï PÀÄªÀiÁgï J£ï © £ï £ÁUÀgÁd JA, 
+    Row  265  |  Column: Address
+             Value :  ¹zÁÞxÀð£ÀUÀgÀ, ²qÀèWÀlÖ mË£ï, ²qÀèWÀlÖ vÁ®ÆèPÀÄ
+    Row  268  |  Column: Name of the beneficiaries
+             Value :  ²æÃzsÀgï J£ï © £ÁUÀgÁdÄ, 
+    Row  268  |  Column: Address
+             Value : PÁªÀÄUÉgÉ uáæªÀÄ, CAZÉ PÉÆ1/4ÉîÃUÁ® vÆèPÀÄ®, ZÁªÀgÁd£ÀUÀgÀ f ̄Éè.
+    Row  296  |  Column: Name of the beneficiaries
+             Value : ±ÀgÀtPÀÄªÀiÁgÀ vÀAzÉ PÀ ̄ÁåtÂ 
+    Row  296  |  Column: Address
+             Value : ̧Á|| ªÀÄAZÉÃªÁ® vÁAqÁ vÁ||eÉÃªÀVð
+    Row  297  |  Column: Name of the beneficiaries
+             Value : gÉÃªÀt¹zÀÄÝ vÀAzÉ ºÀtªÀÄAvÀ, 
+    Row  297  |  Column: Address
+             Value : ̧Á|| PÉÆÃ® ̧À£Á ¥sÉÊ ̄ï ¹zÁÝxÀð ªÀÄoÀ ºÀwÛgÀ, ±ÀºÁ ̈Ázï, PÀ®ÄâVð f ̄Éè
+    Row  298  |  Column: Name of the beneficiaries
+             Value : ¥ÀæFR±ï vÀÀÄÄÀÀ 
+    Row  298  |  Column: Address
+             Value : ̧Á||DgÀÄzÀ£ÀUÀgÀ, PÉÆ® ̧Á ¥ÉÊ ̄ï ±ÀºÁ ̈Ázï
+    Row  303  |  Column: Address
+             Value : ªÉÄÃ¥ÀÄzÀ ¥À ̄ÉÌ, ªÀÁá1/4À UÁæªÀÄ, PÁPÀð1/4À vÁ®ÆèPÀÄ
+    Row  304  |  Column: Name of the beneficiaries
+             Value :  ²æÃzsÀgï J£ï © £ï £áuàgÁdÄ, PÁªÀÄÄÄ uáæªÀÄ, CAZÉ PÉÆ1/4ÉîÃUÁ® vÆèPÀÄ®, ZÁ äÄgÁd
+    Row  307  |  Column: Name of the beneficiaries
+             Value : gÉÃªÀÀäzý vÀÄÄÄÄVÀ, ̧Á|| PÉÆÃ® ̧À£Á ¥sÉÊ ̱ï ¹zÁxÀð ªÀÄoÀ ºÀwÛgÀ, ±ÀºÁ ̈Ázï, PÀ®Ä
+    Row  307  |  Column: Address
+             Value : PÀ®ÄâVð
+    Row  308  |  Column: Name of the beneficiaries
+             Value : ¥ÀæFR±ï vÀAzÉ £áuàà ̧Á||DgÀÄzÀ£ÀUÀgÀ, PÉÆ® ̧Á ¥ÉÊ ̄ï ±ÀºÁ ̈Ázï
+    Row  308  |  Column: Address
+             Value : PÀ®ÄâVð
+    Row  309  |  Column: Name of the beneficiaries
+             Value : ±ÀgÀtPÀÄªÀiÁgÀ vÀAzÉ PÀ ̱ÁåtÂ ̧Á|| ªÀÄAZÉÃªÁ® vÁAqÁ vÁ||eÉÃªÀVð
+    Row  309  |  Column: Address
+             Value : PÀ®ÄâVð
+    Row  310  |  Column: Name of the beneficiaries
+             Value : C¤ ® PÀÄªÀiÁgÀ ® . gÀvÁßPÀgÀ, EAUÀ1/4ÀV UáæªÀÄ , »¥ÀààgÀV vÁ®ÆèPÀÄ
+    Row  310  |  Column: Address
+             Value : PÀ®ÄâVð
+    Row  311  |  Column: Name of the beneficiaries
+             Value : «dAiÀÄPÀÄªÀiÁgï gÁªÀÄZÀAzÀæ¥Àà UÀ§ÆâgÀÄ, ºÀÄ§â1/2î
+    Row  311  |  Column: Address
+             Value : ºÀÄ§â1/2î
+    Row  312  |  Column: Name of the beneficiaries
+             Value : PÀμÁÚ ¤d°AUÀ¥Àà DUÁ ̧É £ÉÃpágÀ £ÀUÀgÀ, ºÀ1/4ÉÃ ºÀÄ§â1/2î
+    Row  312  |  Column: Address
+             Value : ºÀÄ§â1/2î
+    Row  313  |  Column: Name of the beneficiaries
+             Value : £À è®¥À à¥À, ̈ÉAUÀ1/4ÀÆgÀÄ EA¢gÁ £ÀGÀ, §APÁ¥ÀägÀ ZËPï, ºÌ§â1/2î
+    Row  313  |  Column: Address
+             Value : ºÀÄ§â1/2î
+    Row  314  |  Column: Name of the beneficiaries
+             Value : "ÃgÀ¥ÁPÀë¥Àà AiÀÄ®è¥Àà ªÀiÁzÀgÀ ºÀjd£À PÉÃj, ̈ÉÊjzÉÃªÀgÀPÉÆ¥Àà ºÀÄ§â1/2î
+    Row  314  |  Column: Address
+             Value : ºÀÄ§â1/2î
+    Row  318  |  Column: Name of the beneficiaries
+             Value : gÀAfvÀ PÀÄªÀiÁgï ªÉÊ. © £ï £À§À¥À¥Àà ̧Á|| «ÄnÖªÀÄ ̄ÁÌ¥ÀÄgÀ, vÁ||f|| gÁAiÀÄZÀÆgÀÄ
+    Row  318  |  Column: Address
+             Value : gÁAiÀÄZÀÆgÀÄ
+    Row  323  |  Column: Name of the beneficiaries
+             Value : UÀuÉÃ±À PÉ J ̄ï © £ï © £ï ®PÀëöäAiÀÄå
+    Row  323  |  Column: Address
+             Value : PÀÆUÀð1/2î CA ̈ÉÃqÀÌgï PÁ ̄éæã¤ ̈É1/4ÀªÁr ªÉÄÊ ̧ÀÆgÀÄvÁ
+    Row  324  |  Column: Name of the beneficiaries
+             Value : ±ÀAPÀgÀ © £ï ̧ÀÄ§âAiÀÄå
+    Row  324  |  Column: Address
+             Value : PÀÆUÀð1/2î CA ̈ÉÃqÀÌgï PÁ ̄éæã¤ ̈É1/4ÀªÁr ªÉÄÊ ̧ÀÆgÀÄvÁ
+    Row  325  |  Column: Name of the beneficiaries
+             Value : ªÀÄÆwð Dgï © £ï gÁªÀÄAiÀÄå
+    Row  325  |  Column: Address
+             Value : d£vÁ Á ̄ÉÆÃ¤ ̈É1/4ÀªÁr 2£ÉÃ ̈ÁèPï ªÉÄÊ ̧ÀÆgÀÄ vÁ
+    Row  326  |  Column: Name of the beneficiaries
+             Value : ¥ÀPÁ±À © £ï Dgï gÁªÀÄ
+    Row  326  |  Column: Address
+             Value : PÀÆUÀð1/2î CA ̈ÉÃqÀÌgï PÁ ̄éæã¤ ̈É1/4ÀªÁr ªÉÄÊ ̧ÀÆgÀÄvÁ
+    Row  327  |  Column: Name of the beneficiaries
+             Value : Dgï ̧ÀÄgÉÃ±ïPÀÄªÀiÁgï © £ï DªÀÄÄðUÀA
+    Row  327  |  Column: Address
+             Value : PÀÆUÀð1/2î CA ̈ÉÃqÀÌgï PÁ ̄éæã¤ ̈É1/4ÀªÁr ªÉÄÊ ̧ÀÆgÀÄvÁ
+    Row  328  |  Column: Name of the beneficiaries
+             Value : E°AiÀiÁdgï © £ï gÁZÀ¥Àà
+    Row  328  |  Column: Address
+             Value : Dear PA ̱ÉÆÃ¤ ̈É1/4ÀªÁr 2£ÉÃ ̈ÁèPï ªäê ̧ÀÆgÀÄ vÁ
+    Row  329  |  Column: Name of the beneficiaries
+             Value : ªÀÄºÀzÉÃªÀ © £ï M§AiÀÄå
+    Row  329  |  Column: Address
+             Value : PÀÆUÀð1/2î CA ̈ÉÃqÀÌgï PÁ ̄éæã¤ ̈É1/4ÀªÁr ªÉÄÊ ̧ÀÆgÀÄvÁ
+    Row  330  |  Column: Name of the beneficiaries
+             Value : CgÀ«AzÀ © © £ï §£Áßj J ̧ï
+    Row  330  |  Column: Address
+             Value : PÀÆUÀð1/2î CA ̈ÉÃqÀÌgï PÁ ̄éæã¤ ̈É1/4ÀªÁr ªÉÄÊ ̧ÀÆgÀÄvÁ
+    Row  331  |  Column: Name of the beneficiaries
+             Value : ±ÀÉÃRgï ¹ © £ï ZÁªÀÄÄAr
+    Row  331  |  Column: Address
+             Value : PÀÆUÀð1/2î CA ̈ÉÃqÀÌgï PÁ ̄éæã¤ ̈É1/4ÀªÁr ªÉÄÊ ̧ÀÆgÀÄvÁ
+    Row  332  |  Column: Name of the beneficiaries
+             Value : ̧ÀÄ§ªÀÄtå PÉ © £ï QlÖ¥Àà
+    Row  332  |  Column: Address
+             Value : PÀÆUÀð1/2î CA ̈ÉÃqÀÌgï PÁ ̄éæã¤ ̈É1/4ÀªÁr ªÉÄÊ ̧ÀÆgÀÄvÁ
+    Row  333  |  Column: Name of the beneficiaries
+             Value : £«À Ã£ïPÀÄªÀiÁgï EN © £ï ªÀÄAdÄ£ÁxÀ
+    Row  333  |  Column: Address
+             Value : PÀÆUÀð1/2î CA ̈ÉÃqÀÌgï PÁ ̄éæã¤ ̈É1/4ÀªÁr ªÉÄÊ ̧ÀÆgÀÄvÁ
+    Row  334  |  Column: Name of the beneficiaries
+             Value : AiÉÆÃUÉÃ±À © £ï gÁdÄ
+    Row  334  |  Column: Address
+             Value : PÀÆUÀð1/2î CA ̈ÉÃqÀÌgï PÁ ̄éæã¤ ̈É1/4ÀªÁr ªÉÄÊ ̧ÀÆgÀÄvÁ
+    Row  335  |  Column: Name of the beneficiaries
+             Value : £ÁÀ UÉÃAzÀ J£ï © £ï £ÁUÀgÁdÄ
+    Row  335  |  Column: Address
+             Value : PÀÆUÀð1/2î CA ̈ÉÃqÀÌgï PÁ ̄éæã¤ ̈É1/4ÀªÁr ªÉÄÊ ̧ÀÆgÀÄvÁ
+    Row  336  |  Column: Name of the beneficiaries
+             Value : CgÀÄuïPÀÄªÀiÁgï J ̧ï © £ï ̧ÀÄ§ªÀÄtå
+    Row  336  |  Column: Address
+             Value : PÀÆUÀð1/2î CA ̈ÉÃqÀÌgï PÁ ̄éæã¤ ̈É1/4ÀªÁr ªÉÄÊ ̧ÀÆgÀÄvÁ
+    Row  337  |  Column: Name of the beneficiaries
+             Value : UÀuÉÏ±À J ̄ï © £ï ®PÀëöät
+    Row  337  |  Column: Address
+             Value : PÀÆUÀð1/2î CA ̈ÉÃqÀÌgï PÁ ̄éæã¤ ̈É1/4ÀªÁr ªÉÄÊ ̧ÀÆgÀÄvÁ
+    Row  338  |  Column: Name of the beneficiaries
+             Value : gÀÁd © £ï §£Áßj
+    Row  338  |  Column: Address
+             Value : PÀÆUÀð1/2î CA ̈ÉÃqÀÌgï PÁ ̄éæã¤ ̈É1/4ÀªÁr ªÉÄÊ ̧ÀÆgÀÄvÁ
+    Row  339  |  Column: Name of the beneficiaries
+             Value : © gÀ« © £ï J£ï §£ÉßÃj
+    Row  339  |  Column: Address
+             Value : ¹zÀÝ°AUÀ¥ÀÄgÀ ªÁlJ mÁåAPï ºÀwÛgÀ ¥ÆÉ Ã ̧ïÖ D¦Ã ̧ï gÉÆÃqï ªÉÄÊ ̧ÀÆgÀÄ vÁ
+    Row  340  |  Column: Name of the beneficiaries
+             Value : ªÀÄAdÄ£ÁxÀ J ̧ ï © £ï ±ÀAPÀgï
+    Row  340  |  Column: Address
+             Value : PÀÆUÀð1/2î CA ̈ÉÃqÀÌgï PÁ ̄éæã¤ ̈É1/4ÀªÁr ªÉÄÊ ̧ÀÆgÀÄvÁ
+    Row  341  |  Column: Name of the beneficiaries
+             Value : UÀuÉÃ±ï PÉ © £ï PÀÄ¥Àà
+    Row  341  |  Column: Address
+             Value : PÀÆUÀð1/2î CA ̈ÉÃqÀÌgï PÁ ̄éæã¤ ̈É1/4ÀªÁr ªÉÄÊ ̧ÀÆgÀÄvÁ
+    Row  342  |  Column: Address
+             Value : PÀÆUÀð1/2î CA ̈ÉÃqÀÌgï PÁ ̄éæã¤ ̈É1/4ÀªÁr ªÉÄÊ ̧ÀÆgÀÄvÁ
+    Row  343  |  Column: Address
+             Value : PÀÆUÀð1/2î CA ̈ÉÃqÀÌgï PÁ ̄éæã¤ ̈É1/4ÀªÁr ªÉÄÊ ̧ÀÆgÀÄvÁ
+    Row  344  |  Column: Name of the beneficiaries
+             Value : Dgï ªÀÄºÉÃ±À © £ï gÀAUÀ ̧Áé«Ä
+    Row  344  |  Column: Address
+             Value : PÀÆUÀð1/2î CA ̈ÉÃqÀÌgï PÁ ̄éæã¤ ̈É1/4ÀªÁr ªÉÄÊ ̧ÀÆgÀÄvÁ
+    Row  345  |  Column: Name of the beneficiaries
+             Value : QgÀuïPÀÄªÀiÁgï Dgï © £ï gÀAUÀ
+    Row  345  |  Column: Address
+             Value : PÀÆUÀð1/2î CA ̈ÉÃqÀÌgï PÁ ̄éæã¤ ̈É1/4ÀªÁr ªÉÄÊ ̧ÀÆgÀÄvÁ
+    Row  346  |  Column: Name of the beneficiaries
+             Value : zÀ£AÀ dAiÀÄ PÉ © £ï PÀμÀ ©
+    Row  346  |  Column: Address
+             Value : PÀÆUÀð1/2î CA ̈ÉÃqÀÌgï PÁ ̄éæã¤ ̈É1/4ÀªÁr ªÉÄÊ ̧ÀÆgÀÄvÁ
+    Row  347  |  Column: Name of the beneficiaries
+             Value : gÀªÉÄÃ±À J£ï © £ï £AÀ dÄAqÀ
+    Row  347  |  Column: Address
+             Value : ̈ É1/4ÀªÁr 2£ÉÃ ̈ ÁèPï ªÉÄÊ ̧ ÀÆgÀÄ vÁ
+    Row  348  |  Column: Name of the beneficiaries
+             Value : ªÀÄtÂ PÉ © £ï PÀÄªÀ
+    Row  348  |  Column: Address
+             Value : PÀÆUÀð1/2î CA ̈ÉÃqÀÌgï PÁ ̄éæã¤ ̈É1/4ÀªÁr ªÉÄÊ ̧ÀÆgÀÄvÁ
+    Row  349  |  Column: Name of the beneficiaries
+             Value : © ¹ ªÀÄAdÄ£ÁxÀ £ï ZÁªÀÄÄAr
+    Row  350  |  Column: Name of the beneficiaries
+             Value : ªÀÄAdÄ£ÁxÀ n © £ï vÀªÀÄäAiÀÄå
+    Row  350  |  Column: Address
+             Value : PÀÆUÀð1/2î CA ̈ÉÃqÀÌgï PÁ ̄éæã¤ ̈É1/4ÀªÁr ªÉÄÊ ̧ÀÆgÀÄvÁ
+    Row  351  |  Column: Name of the beneficiaries
+             Value : ªÀÄºÀzÉÃªÀ © © £ï §£Áßj
+    Row  351  |  Column: Address
+             Value : ̈ É1/4ÀªÁr 2£ÉÃ ̈ ÁèPï ªÉÄÊ ̧ ÀÆgÀÄ vÁ
+    Row  352  |  Column: Name of the beneficiaries
+             Value : © ±ÁåªÀÄ £ï gÁdÄ J
+    Row  352  |  Column: Address
+             Value : ºÀÆlUÀ1/2î ºÀ®Æf PÀmÉÖ gÉÆÃqï ªÉÄÊ ̧ÀÆgÀÄ vÁ
+    Row  353  |  Column: Name of the beneficiaries
+             Value : ̧ÀÄ§ªÀÄtå J © £ï C1/4ÀVj
+    Row  353  |  Column: Address
+             Value : PÀÆUÀð1/2î CA ̈ÉÃqÀÌgï PÁ ̄éæã¤ ̈É1/4ÀªÁr ªÉÄÊ ̧ÀÆgÀÄvÁ
+    Row  354  |  Column: Address
+             Value : d£vÁ Á ̄ÉÆÃ¤ ̈É1/4ÀªÁr 2£ÉÃ ̈ÁèPï ªÉÄÊ ̧ÀÆgÀÄ vÁ
+    Row  355  |  Column: Name of the beneficiaries
+             Value : PÉDgï ªÀAAgÀÄªÉÃ±ï © £ï gÁªÀÄÄ
+    Row  355  |  Column: Address
+             Value : ̈ÉlÖzÀ¥ÀÄgÀ ¦jAiÀiÁ¥ÀlÖt vÁ
+    Row  356  |  Column: Name of the beneficiaries
+             Value : © ªÀÄAdÄ ¦ £ï ¥À1/4À¤ ̧ ÁéN
+    Row  356  |  Column: Address
+             Value : D®vÀÆÛgÀÄ ºÉÆ ̧ÀPÉÆÃmÉ ¥ÉÆÃ ̧ïÖ ªÉÄÊ ̧ÀÆgÀÄ vÁ
+    Row  357  |  Column: Name of the beneficiaries
+             Value : ²ªÀ Dgï PÉÆÃA ̄ÉÃ GAD
+    Row  357  |  Column: Address
+             Value : PÀ ̄Éèã£à£åàî PÉDgï £ÀUÀgÀ vÁ
+    Row  358  |  Column: Name of the beneficiaries
+             Value : © ªÀÄAdÄ£ÁxÀ £ï PÀtAiÀÄå
+    Row  358  |  Column: Address
+             Value : ºÉÆ ̧ÀºÀ1/2î PÀ ̧À§ ºÉÆÃ§1/2 PÉDgï £ÀUÀgÀ vÁ.
+    Row  359  |  Column: Name of the beneficiaries
+             Value : ¥ÀÀªÉÆÃzï © £ï PÀ¥ÀðAiÀÄå
+    Row  359  |  Column: Address
+             Value : § ̧ÀªÀgÁd¥ÀÄgÀ PÉDgï £UÀ ÀgÀ vÁ
+    Row  360  |  Column: Name of the beneficiaries
+             Value : gÁeÉÃ±ï JA Jt © £ï £ÁUÀªÀä
+    Row  360  |  Column: Address
+             Value : «Ä ̄Éð PÉDgï £ÀUÀgÀ vA
+    Row  361  |  Column: Name of the beneficiaries
+             Value : gÀ«±ÀAPÀgï Dgï gÁZÀAiÀÄå
+    Row  361  |  Column: Address
+             Value : ̈ ÀgÀvÀªÁr ºÀ£UÀ ÉÆÃqÀÄ ºÉÆÃ§1/2 ºÀÄt ̧ ÀÆgÀÄ vÁ
+    Row  362  |  Column: Name of the beneficiaries
+             Value : ̄ÉÆÃPÉÃ±À © £ï £ÁgÁAiÀÄt
+    Row  362  |  Column: Address
+             Value : ̈ÁåqÀgÀºÀ1/2î gÀvÀß¥ÀÄj PÀ ̧À§ ºÉÆÃ§1/2 ºÀÄt ̧ÀÆgÀÄ vÁ
+    Row  363  |  Column: Name of the beneficiaries
+             Value : ªÀÄºÀzÉÃªÀ ©© © £ï §£Áßj
+    Row  363  |  Column: Address
+             Value : UÀ¢ÝUÉ ©1/2PÉgÉ ºÉÆÃ§1/2 ºÀÄt ̧ÀÆgÀÄ vÁ
+    Row  364  |  Column: Name of the beneficiaries
+             Value : CªÀiÁªÀ ̧ÀAiÀÄå © £ï PÀÄªÀiÁgÀAiÀÄå
+    Row  364  |  Column: Address
+             Value : UÀ¢ÝUÉ ©1/2PÉgÉ ºÉÆÃ§1/2 ºÀÄt ̧ÀÆgÀÄ vÁ
+    Row  369  |  Column: Name of the beneficiaries
+             Value : ̧ÀÄ§ææªÀÄtå © £ï £ÀAdÄAqÀAiÀÄå 
+    Row  369  |  Column: Address
+             Value : PÁ1/4À¥Àà §qÁªÀuÉ, DgïnN D¦üÃ̧ï ªÀÄÄA ̈sÁUÀ, ªÀÄAqÀå f ̄Éè
+    Row  370  |  Column: Name of the beneficiaries
+             Value :  ¹zÀÝgÁdÄ JA © £ï ªÀÄ®èAiÀÄå
+    Row  370  |  Column: Address
+             Value :  PÁ1/4À¥Àà §qÁªÀuÉ, DgïnN D¦üÃ̧ï ªÀÄÄA ̈sÁUÀ, ªÀÄAqÀå f ̄Éè
+    Row  371  |  Column: Name of the beneficiaries
+             Value : ¥ÀÀæ¢Ã¥À vÀAzÉ ±À²PÁAvÀ ̧Á|| amÁÖ (FRI) vÁ|| ̈sÁ°Ì f|| ©ÃzÀgï
+    Row  371  |  Column: Address
+             Value : ©ÃzÀgï
+    Row  372  |  Column: Name of the beneficiaries
+             Value : ̧ÉÆÃªÉÄÃ±À © £ï ªÀÄ°èPÁdÄð£À, 26£ÉÃ ªÁqïð, ̈ÉÊ¥Á ̧ï gÀ ̧ÉÛ, D±ÀæAiÀÄ PÁ ̄ÉÆÃ¤, ²
+    Row  372  |  Column: Address
+             Value : §1/4Áîj
+    Row  373  |  Column: Name of the beneficiaries
+             Value : PÀE. ̧ÀÄzÀ±Àð£À UÄgÀÄ£ÁxÀ © £ï PÉ «ÃgÉÃ±À 26£ÉÃ ªÁqsïð ,²gÀUÀÄ¥Àà vÁ
+    Row  373  |  Column: Address
+             Value : §1/4Áîj
+    Row  374  |  Column: Name of the beneficiaries
+             Value : gÀ«PÀÄªÀiÁgÀ © £ï PÉ. FgÀtÚ 30£ÉÃ ªÁqsïð, PÀ ̄Áåt ªÀÄAl¥À ºÀwÛgÀ, ²gÀUÀÄ¥Àà vÁ.
+    Row  374  |  Column: Address
+             Value : §1/4Áîj
+    Row  375  |  Column: Name of the beneficiaries
+             Value : ªÉAPÀmÉÃ±À © £ï ¥ÀgÀªÉÄÃ±ÀégÀ¥à¥À 25£ÉÃ ªÁqïð, PÀ ̄Áåt ªÀÄAl¥À ºÀwÛgÀ ²gÀUÀÄ¥Àà 
+    Row  375  |  Column: Address
+             Value : §1/4Áîj
+    Row  376  |  Column: Name of the beneficiaries
+             Value : PÁåzAV gÁªAÄªAÄÆwð vAAzÉ FgAtÚ, 30£ÉÃ ªÁqïð PA ̄Áåt ªAÄAl¥A ºAwÛgA, ²gAUAÄ¥Aa, v
+    Row  376  |  Column: Address
+             Value : §1/4Áîj
+    Row  377  |  Column: Name of the beneficiaries
+             Value : C¤ ® AiÀÄ®è¥Àà ̧ÁUÀgÀ, AiÉÆÃUÁ¥ÀÄgÀ PÁ ̄ÉÆÃ¤, ªÁqïð £ÀA.16, ¹AzÀV gÀ ̧ÉÛ, «dAiÀÄ
+    Row  377  |  Column: Address
+             Value : «DAiÀ¥ÀÄàäÀ
+    Row  378  |  Column: Name of the beneficiaries
+             Value : ±ÀÁ¹Ûç ̧ÀAUÀ¥Àà ºÉÆ ̧ÀªÀÄ¤ © £ï ̧ÀAUÀ¥Àà ºÉÆ ̧ÀªÀÄ¤, PÀA ̈ÁV UáæªÀÄzÀ §§ ̄ÉÃ±Àég
+    Row  378  |  Column: Address
+             Value : «DAiÀ¥ÀÄàäÀ
+    Row  379  |  Column: Name of the beneficiaries
+             Value : ̧Àäzsápàgï §£À ̧ÉÆÃqÉ © £ï ªÀÄºÁzÉÃªÀ §£À ̧ÉÆÃqÉ, Ear vÁ. ZÀqÀZÀt
+    Row  379  |  Column: Address
+             Value : «DAiÀ¥ÀÄàäÀ
+    Row  380  |  Column: Name of the beneficiaries
+             Value : s ̧ÀÄzsÁPÀgï §£À ̧ÉÆÃqÉ © £ï ªÀÄ��ÁzÉÃªÀ §£À ̧ÉÆÃqÉ, Ear vÁ. ZÀqÀZÀt
+    Row  380  |  Column: Address
+             Value : «DAiÀ¥ÀÄàäÀ
+    Row  381  |  Column: Name of the beneficiaries
+             Value : zÀ±ÀgÀxÀ ̈Á§Ä §£À ̧ÉÆÃqÉ, © £� ̈Á§Ä §£À ̧ÉÆÃqÉ, ¤AiÀÄgï ¥ÉÆÃ° ̧ï ̧ÉÖÃμÀ£ï, D±ÀæA
+    Row  381  |  Column: Address
+             Value : «DAiÀ¥ÀÄàäÀ
+    Row  382  |  Column: Name of the beneficiaries
+             Value : ºÁwgÁªÀiï £AÀÄÌ J ̧ ï.J£ï £ï © ²æÃ ®PÀëöät £AÀÄPï
+    Row  382  |  Column: Address
+             Value :  J ̧ ï.n, ¹. «. gÁªÀÄ£ï£ÀUÀgÀ, ̈ ÉAUÀ1/4ÀÆgÀÄ
+
+SHEET: SKDC Micro 2021-22
+----------------------------------------------------------------------
+
+  EMPTY CELLS (5 total):
+    Row    0  |  Column: Col_1
+    Row    0  |  Column: Col_2
+    Row    0  |  Column: Col_3
+    Row    0  |  Column: Col_4
+    Row  221  |  Column: Col_3
+
+  GARBLED ENCODING ROWS (70 total):
+    Row    0  |  Column: List of beneficiaries ( ¥ÉæÃgÀuÁ - 2021-22)
+             Value : List of beneficiaries ( ¥ÉæÃgÀuÁ - 2021-22)
+    Row    1  |  Column: Col_4
+             Value : WÀlPÀ ªÉZÀÑ
+    Row  247  |  Column: Col_3
+             Value : D±ÀæÀÀÄ PÁ ̄ÉÆ¤ ±ÀºÁ¥ÀÆgÀ
+    Row  248  |  Column: Col_3
+             Value : D±ÀæÀÀÄ PÁ ̄ÉÆ¤ ±ÀºÁ¥ÀÆgÀ
+    Row  249  |  Column: Col_3
+             Value : D±ÀæÀÀÄ PÁ ̄ÉÆ¤ ±ÀºÁ¥ÀÆgÀ
+    Row  250  |  Column: Col_3
+             Value : D±ÀæÀÀÄ PÁ ̄ÉÆ¤ ±ÀºÁ¥ÀÆgÀ
+    Row  251  |  Column: Col_3
+             Value : D±ÀæÀÀÄ PÁ ̄ÉÆ¤ ±ÀºÁ¥ÀÆgÀ
+    Row  252  |  Column: Col_3
+             Value : D±ÀæÀÀÄ PÁ ̄ÉÆ¤ ±ÀºÁ¥ÀÆgÀ
+    Row  253  |  Column: Col_3
+             Value : D±ÀæÀÀÄ PÁ ̄ÉÆ¤ ±ÀºÁ¥ÀÆgÀ
+    Row  254  |  Column: Col_3
+             Value : D±ÀæÀÀÄ PÁ ̄ÉÆ¤ ±ÀºÁ¥ÀÆgÀ
+    Row  255  |  Column: Col_3
+             Value : D±ÀæÀÀÄ PÁ ̄ÉÆ¤ ±ÀºÁ¥ÀÆgÀ
+    Row  256  |  Column: Col_3
+             Value : D±ÀæÀÀÄ PÁ ̄ÉÆ¤ ±ÀºÁ¥ÀÆgÀ
+    Row  267  |  Column: Col_2
+             Value : ²ÃvÀ® DPÁ±À qÁªÀ1/4É--1
+    Row  267  |  Column: Col_3
+             Value : eÉÆåÃw £ÀUÀgÀ
+    Row  268  |  Column: Col_2
+             Value : ZÁAzÀ¤ C«ÄÃvÀ ̈sÉÆÃ ̧À ̄É--2
+    Row  268  |  Column: Col_3
+             Value : eÉÆåÃw £ÀUÀgÀ
+    Row  269  |  Column: Col_2
+             Value : zÀ±Àð£Á gÁeÁ SÉÆÃgÀUÀqÉ
+    Row  269  |  Column: Col_3
+             Value : eÉÆåÃw £ÀUÀgÀ
+    Row  270  |  Column: Col_2
+             Value : ¤QvÁ D£ÀAzÀ SÉÆÃgÀUÀqÉ
+    Row  270  |  Column: Col_3
+             Value : eÉÆåÃw £ÀUÀgÀ
+    Row  271  |  Column: Col_2
+             Value : ¥ÀÆ£ÀªÀÄ £ÁUÉÃ±À PÉÆgÀUÀqÉ
+    Row  271  |  Column: Col_3
+             Value : eÉÆåÃw £ÀUÀgÀ
+    Row  272  |  Column: Col_2
+             Value : ®vÁ ¥ÀæFR±À SÉÆÃgÁUÀqÉ
+    Row  272  |  Column: Col_3
+             Value : eÉÆåÃw £ÀUÀgÀ
+    Row  273  |  Column: Col_2
+             Value : ̧ÀAVÃvÁ gÀ« SÉÆÃgÀUÀqÉ
+    Row  273  |  Column: Col_3
+             Value : eÉÆåÃw £ÀUÀgÀ
+    Row  274  |  Column: Col_3
+             Value : eÉÆåÃw £ÀUÀgÀ
+    Row  275  |  Column: Col_2
+             Value : gÉÃtÄPÁ ±ÀAPÀgÀ PÀÄgÀ§gÀ
+    Row  275  |  Column: Col_3
+             Value : eÉÆåÃw £ÀUÀgÀ
+    Row  276  |  Column: Col_2
+             Value : GÉTÄPÁ ̧ÀÄ¤Ã® SÉÁGÀUÀqÉ
+    Row  276  |  Column: Col_3
+             Value : eÉÆåÃw £ÀUÀgÀ
+    Row  277  |  Column: Col_2
+             Value : PÀªÀÄ® PÀÈμÁÚ ²AzsÉ
+    Row  277  |  Column: Col_3
+             Value : eÉÆåÃw £ÀUÀgÀ
+    Row  278  |  Column: Col_2
+             Value : C²éÃ¤ ¢Ã¥ÀPÀ qÁªÀ1/4É
+    Row  278  |  Column: Col_3
+             Value : eÉÆåÃw £ÀUÀgÀ
+    Row  279  |  Column: Col_2
+             Value : ¥ÀÆeÁÁzÀ® qÁªÀ1/4É
+    Row  279  |  Column: Col_3
+             Value : eÉÆåÃw £ÀUÀgÀ
+    Row  280  |  Column: Col_2
+             Value : ªÀÄAUÀ® ̈Á§Ä ̈sÉÆÃ ̧À ̄É
+    Row  280  |  Column: Col_3
+             Value : eÉÆåÃw £ÀUÀgÀ
+    Row  281  |  Column: Col_2
+             Value : GªÀiÁ DPÁ±À SÉÆÃgÀUÀqÉ
+    Row  281  |  Column: Col_3
+             Value : eÉÆåÃw £ÀUÀgÀ
+    Row  282  |  Column: Col_2
+             Value : CZÀð£Á ±ÀAPÀgÀ ̄ÁSÉ
+    Row  282  |  Column: Col_3
+             Value : eÉÆåÃw £ÀUÀgÀ
+    Row  283  |  Column: Col_2
+             Value : ̧ÀÄ¤ÃvÁ ZÀªÀÄ£ï SÉÆÃgÀUÀqÉ
+    Row  283  |  Column: Col_3
+             Value : eÉÆåÃw £ÀUÀgÀ
+    Row  284  |  Column: Col_2
+             Value : gÉÃSÁ ªÉÆÃºÀ£À SÉÆÃgÀUÀqÉ
+    Row  284  |  Column: Col_3
+             Value : eÉÆåÃw £ÀUÀgÀ
+    Row  285  |  Column: Col_2
+             Value : C£ÀÄ fvÉAzÀæ SÉÆÃgÀUÀqÉ
+    Row  285  |  Column: Col_3
+             Value : eÉÆåÃw £ÀUÀgÀ
+    Row  286  |  Column: Col_2
+             Value : On ¢à¥ÀPÀ ̄ÁSÉ
+    Row  286  |  Column: Col_3
+             Value : eÉÆåÃw £ÀUÀgÀ
+    Row  287  |  Column: Col_2
+             Value : FRI±ÀªÀé ºÀ£ÀªÀÄAvÀ »gÉªÉÄÃwæ--1
+    Row  287  |  Column: Col_3
+             Value : ̧Á:¤ªÀÄð® £ÀUÀgÀ ªÀÄ£ÉÆßÃ1/2
+    Row  288  |  Column: Col_2
+             Value : ®QëöäÃ D£ÀAzÀ dA§V--2
+    Row  288  |  Column: Col_3
+             Value : ̧Á:£ÁUÀ°AUÀ £ÀUÀgÀ ªÀÄ£ÉÆßÃ1/2
+    Row  289  |  Column: Col_2
+             Value : "ÀßªÀé gÀªÀÀ¥À¥À§V
+    Row  289  |  Column: Col_3
+             Value : ̧Á:¤ªÀÄð® £ÀUÀgÀ ªÀÄ£ÉÆßÃ1/2
+    Row  290  |  Column: Col_3
+             Value : ̧Á:¤ªÀÄð® £ÀUÀgÀ ªÀÄ£ÉÆßÃ1/2
+    Row  291  |  Column: Col_2
+             Value : gÁeÉÃ±Àéj ¥ÀæPÁ±À dA§V
+    Row  291  |  Column: Col_3
+             Value : ̧Á:¤ªÀÄð® £ÀUÀgÀ ªÀÄ£ÉÆßÃ1/2
+    Row  292  |  Column: Col_2
+             Value : ̧ ÀÄ«ÄvÁæ ¥ÀAZÀ¥Àà dA§V
+    Row  292  |  Column: Col_3
+             Value : ̧:A ¢ü £ÀUÀgÀ ªÀÄÄ£ÉÆßÃ1/2
+    Row  293  |  Column: Col_2
+             Value : ¥ÁªàðvÉªàé ¥ÀÀåÀà ªàiÁzÀgÀ
+    Row  293  |  Column: Col_3
+             Value : ̧Á:¤ªÀÄð® £ÀUÀgÀ ªÀÄ£ÉÆßÃ1/2
+    Row  294  |  Column: Col_2
+             Value : PÀªÀÄ®ªÀé § ̧À¥Àà zÉÃªÀªÀªÀÄ¤
+    Row  294  |  Column: Col_3
+             Value : ̧:A ¢ü £ÀUÀgÀ ªÀÄÄ£ÉÆßÃ1/2
+    Row  295  |  Column: Col_2
+             Value : ¥ÁªÀðw ºÀtªÀÄAvÀ dA§V
+    Row  295  |  Column: Col_3
+             Value : ̧:A ¢ü £ÀUÀgÀ ªÀÄÄ£ÉÆßÃ1/2
+    Row  296  |  Column: Col_2
+             Value : "ÄÃ£ÁQë ̧ÉÆÃªÀÄ°AUÀ ºÀªÀªÀ1/4À¥Àà£ÀªÀªÀªÀÀªÀÀªÀªÀªÀªÀªÀ°ÀªÀ°ÀªÀ°ÀªÀ£ÀªÀ¥À£ÀªÀªT
+    Row  296  |  Column: Col_3
+             Value : ̧Á:¤ªÀÄð® £ÀUÀgÀ ªÀÄ£ÉÆßÃ1/2
+
+  KANNADA UNICODE ROWS (1 total):
+    Row  106  |  Column: Col_3
+             Value : #189ಎ, 6th Cross, 3rd Main Road, B. Chandrappanagar, Adugodi, Bangalore
+
+SHEET: SKDC Airavata 2021-22
+----------------------------------------------------------------------
+
+  EMPTY CELLS (12 total):
+    Row    0  |  Column: Col_1
+    Row    0  |  Column: Col_2
+    Row    0  |  Column: Col_3
+    Row    0  |  Column: Col_4
+    Row    0  |  Column: Col_5
+    Row   66  |  Column: Col_1
+    Row   67  |  Column: Col_1
+    Row   68  |  Column: Col_1
+    Row   69  |  Column: Col_1
+    Row   69  |  Column: Col_2
+    Row   70  |  Column: Col_1
+    Row   71  |  Column: Col_1
+
+  GARBLED ENCODING ROWS (44 total):
+    Row    1  |  Column: Col_1
+             Value : AiÉÆÃd£É
+    Row    1  |  Column: Col_5
+             Value : WÀlPÀ ªÉZÀÑ
+    Row   73  |  Column: Col_3
+             Value : ¢£ÉÃ±ï ¹ © £ï a£ÀßAiÀÄå,
+    Row   73  |  Column: Col_4
+             Value : £ÀA.99, DAzÀæ ̄ÉÊ£ï ªÀiÁjPÀÄ¥ÀààA PÉ.f.J¥sï
+    Row  127  |  Column: Col_3
+             Value : gÉÃªÀt¹zÀÄÝ vÀAzÉ ºÀtªÀÄAvÀ, 
+    Row  127  |  Column: Col_4
+             Value : ̧Á|| PÉÆÃ® ̧À£Á ¥sÉÊ ̄ï ¹zÁÝxÀð ªÀÄoÀ ºÀwÛgÀ, ±ÀºÁ ̈Ázï, PÀ®ÄâVð f ̄Éè
+    Row  128  |  Column: Col_3
+             Value : ¥ÀæFR±ï vÀÀÄÄÀÀ 
+    Row  128  |  Column: Col_4
+             Value : ̧Á||DgÀÄzÀ£ÀUÀgÀ, PÉÆ® ̧Á ¥ÉÊ ̄ï ±ÀºÁ ̈Ázï
+    Row  129  |  Column: Col_3
+             Value : ±ÀgÀtPÀÄªÀiÁgÀ vÀAzÉ PÀ ̄ÁåtÂ 
+    Row  129  |  Column: Col_4
+             Value : ̧Á|| ªÀÄAZÉÃªÁ® vÁAqÁ vÁ||eÉÃªÀVð
+    Row  130  |  Column: Col_3
+             Value : ¥ÀÀæ¢Ã¥À vÀAzÉ ±à²PÁAvÀ
+    Row  130  |  Column: Col_4
+             Value :  ̧Á|| amÁÖ (FRI) vÁ|| ̈sÁ°Ì f|| ©ÃzÀgï
+    Row  131  |  Column: Col_3
+             Value : C¤ ® PÀÄªÀiÁgÀ ® . gÀvÁßPÀgÀ, 
+    Row  131  |  Column: Col_4
+             Value : EAUÀ¼ÀV ಗ್ರಾಮ , »¥ÀàgÀV vÁ®ÆèPÀÄ
+    Row  132  |  Column: Col_3
+             Value : C¤ ® AiÀÄ®è¥Àà ̧ÁUÀgÀ, AiÉÆÃUÁ¥ÀÄgÀ P
+    Row  132  |  Column: Col_4
+             Value : ಕಾ ̄ÉÆÃ¤, ªÁqïð £ÀA.16, ¹AzÀV gÀ ̧ÉÛ, «dAiÀÄ¥ÀÄgÀ
+    Row  133  |  Column: Col_3
+             Value : ̧ Á|| «ÄnÖªÀÄ ̄ ÁÌ¥ÀÄgÀ, vÁ||f|| gÁAiÀÄZÀÆgÀÄ
+    Row  133  |  Column: Col_4
+             Value : gÀAfvÀ PÀÄªÀiÁgï ªÉÊ. © £ï £ÀgÀ ̧À¥À¥à 
+    Row  134  |  Column: Col_3
+             Value :  ²æÃzsÀgï J£ï © £ÁUÀgÁdÄ, 
+    Row  134  |  Column: Col_4
+             Value : PÁªÀÄUÉgÉ uáæªÀÄ, CAZÉ PÉÆ1/4ÉîÃUÁ® vÆèPÀÄ®, ZÁªÀgÁd£ÀUÀgÀ f ̄Éè.
+    Row  135  |  Column: Col_3
+             Value : "dAiÀÄPÀÄªÀiÁgï gÁªÀÄZÀAzÀæ¥Àà 
+    Row  135  |  Column: Col_4
+             Value : UÀ§ÆâgÀÄ, ºÀÄ§â1/2î
+    Row  136  |  Column: Col_3
+             Value : PÀÈμÁÚ ¤d°AUÀ¥Àà 
+    Row  136  |  Column: Col_4
+             Value : DUÁ ̧É £ÉÃpágÀ £ÀUÀgÀ, ºÀ1/4ÉÃ ºÀÄ§â1/2î
+    Row  137  |  Column: Col_3
+             Value : £ÁUÀgÁd £À®è¥Àà, 
+    Row  137  |  Column: Col_4
+             Value : ̈ ÉAUÀ1/4ÀÆgÀÄ EA¢GÁ £ÀUÀgÀ, §APÁ¥ÀÄgÀ ZËPï, ºÀÄ§â1/2î
+    Row  138  |  Column: Col_3
+             Value : "ÃgÀ¥ÁPÀë¥Àà AiÀÄ®è¥Àà ªÀiÁzÀgÀ 
+    Row  138  |  Column: Col_4
+             Value : ºÀjd£À PÉÃj, ̈ÉÊjzÉÃªÀgÀPÉÆ¥Àà ºÀÄ§â1/2î
+    Row  139  |  Column: Col_3
+             Value : ̧ÉÆÃªÉÄÃ±À © £ï ªÀÄ°èPÁdÄð£À, 
+    Row  139  |  Column: Col_4
+             Value : 26£ÉÃ ªÁqïð, ̈ÉÊ¥Á ̧ï gÀ ̧ÉÛ, D±ÀæÀÀÄ PÁ ̄ÉÆÃ¤, ²gÀUÀÄ¥Àà vÁ|| §1/4Áîj f ̄Éè
+    Row  140  |  Column: Col_3
+             Value : ±ÀÁ¹Ûç ̧ÀÀ¥ÀºÉÆ ̧ÀªÀÄ¤ © £ï ̧ÀAUÀ¥ÀºÉÆ ̧ÀªÀÄ¤, 
+    Row  140  |  Column: Col_4
+             Value : PÀA ̈ÁV UáæªÀÄzÀ §§ ̄ÉÃ±ÀégÀ ºÉÆÃ§1/2, «dAiÀ¥ÀÄgÀ vÁ. « dAiÀ¥ÀÄàägÀ f ̄Éè.
+    Row  141  |  Column: Col_3
+             Value : PÀÉ. ̧ÀÄzÀ±ÀïÀð£À UÀgÀÄ£ÁxÀ © £ï PÉ «ÃgÉÃ±À 
+    Row  141  |  Column: Col_4
+             Value : 26£ÉÃ ªÁqsïð ,²gÀUÀÄ¥Àà vÁ
+    Row  142  |  Column: Col_3
+             Value : gÀ«PÀÄªÀiÁgÀ © £ï PÉ. FgÀtÚ 
+    Row  142  |  Column: Col_4
+             Value : 30£ÉÃ ªÁqsïð, PÀ ̄Áåt ªÀÄAl¥À ºÀwÛgÀ, ²gÀUÀÄ¥Àà vÁ.
+    Row  143  |  Column: Col_3
+             Value : ªÉAPÀmÉÃ±À © £ï ¥ÀgÀªÉÄÄ±ÀegÀ¥àà 
+    Row  143  |  Column: Col_4
+             Value : 25£ÉÃ ªÁqïð, PÀ ̄Áåt ªÀÄAl¥À ºÀwÛgÀ ²gÀUÀÄ¥Àà vÁ.
+    Row  144  |  Column: Col_3
+             Value : ̧ÀÄ§ææªÀÄtå © £ï £ÀAdÄAqÀAiÀÄå 
+    Row  144  |  Column: Col_4
+             Value : PÁ1/4À¥Àà §qÁªÀuÉ, DgïnN D¦üÃ̧ï ªÀÄÄA ̈sÁUÀ, ªÀÄAqÀå f ̄Éè
+    Row  145  |  Column: Col_3
+             Value :  ¹zÀÝgÁdÄ JA © £ï ªÀÄ®èAiÀÄå 
+    Row  145  |  Column: Col_4
+             Value : PÁ1/4À¥Àà §qÁªÀuÉ, DgïnN D¦üÃ̧ï ªÀÄÄA ̈sÁUÀ, ªÀÄAqÀå f ̄Éè
+    Row  146  |  Column: Col_3
+             Value : ̧ÀÄzsápàgï §£À ̧ÉÆÃqÉ © £ï ªÀÄºÁzÉÃªÀ 
+    Row  146  |  Column: Col_4
+             Value : §£À ̧ÉÆÃqÉ, ಇಂr vÁ. ZÀqÀZÀt
+
+SHEET: SKDC Micro 2022-23
+----------------------------------------------------------------------
+
+  EMPTY CELLS (4 total):
+    Row    0  |  Column: District
+    Row    0  |  Column: Name of the Association
+    Row    0  |  Column: Address
+    Row    0  |  Column: WÀlPÀ ªÉZÀÑ
+
+  GARBLED ENCODING ROWS (24 total):
+    Row    0  |  Column: K.No
+             Value :   ( ¥ÉæÃgÀuÁ - 2022-23) List of associations
+    Row    1  |  Column: WÀlPÀ ªÉZÀÑ
+             Value : WÀlPÀ ªÉZÀÑ
+    Row   11  |  Column: Name of the Association
+             Value : CA ̈ ÉÃqÀÌgï ªÀÄ»1/4Á ̧ Àé ̧ ÀºÁAiÀÄ ̧ ÀAWÀ, 
+    Row   11  |  Column: Address
+             Value : vÉ®ÄUÀÄ ̄ÉÊ£ï, PÉÆÃgÀªÀÄAqÀ ̄ï, PÉ.f.J¥sï
+    Row   12  |  Column: Name of the Association
+             Value : ®ªÀgÀ Qö ªÀÄ»1/4Á ̧ Àé ̧ ÀºÁAiÀÄ ̧ ÀAWÀ, 
+    Row   12  |  Column: Address
+             Value : §eÁgï ©Ã¢, GjUÁA ¥ÉÃmÉ, PÉ.f.J¥sï.
+    Row   13  |  Column: Name of the Association
+             Value : ºÉÆÃ¥ï ªÀÄ»1/4A qÉªÀ®¥ïªÉÄAmï ̧ÉÆ ̧ÉÊn, 
+    Row   13  |  Column: Address
+             Value : ̧ÀÄ§æªÀÄtÂ zÉÃªÀ ̧ÁÜ£À ©Ã¢, GjUÁA¥ÉÃmÉ, PÉ.f.J¥sï.
+    Row   14  |  Column: Name of the Association
+             Value : ºÀ¶ðvÁ ªÀÄ»1/4Á ̧ Àé ̧ ÀºÁAiÀÄ ̧ ÀAWÀ, 
+    Row   14  |  Column: Address
+             Value : vÉ®ÄUÀÄ ̄ÉÊ£ï, GjUÁA¥ÉÃmÉ, PÉ.f.J¥sï.
+    Row   15  |  Column: Name of the Association
+             Value : ®ªÀÄºÁ Qö ªÀÄ»1/4Á ̧ Àé ̧ ÀºÁAiÀÄ ̧ ÀAWÀ,
+    Row   15  |  Column: Address
+             Value :  ¥sÉÊªï ̄ÉÊmïì, GjUÁA, PÉ.f.J¥sï.
+    Row   16  |  Column: Name of the Association
+             Value : CA ̈ ÉÃqÀÌgï ªÀÄ»1/4Á ̧ Àé ̧ ÀºÁAiÀÄ ̧ ÀAWÀ, 
+    Row   16  |  Column: Address
+             Value : ̈ÁåAqï ̄ÉÊ£ï, GjUÁA, PÉ.f.J¥sï.
+    Row   17  |  Column: Name of the Association
+             Value : vÁ¬-̈ sÀÄªÀ£ÉÃ±Àéj ªÀÄ»1/4Á ̧ Àé-̧ ÀºÁAiÀÄ ̧ ÀAWÀ, 
+    Row   17  |  Column: Address
+             Value : ̧ÀAdAiÀÄUÁA¢ü£àà gÁ§mïð ̧À£ï ¥ÉÃmÉ, PÉ.f.J¥sï PÉÆÃ ̄ÁgÀ f ̄Éè.
+    Row   18  |  Column: Name of the Association
+             Value : gÁtÂ ZÉ£ÀßªÀÄä ̧ Àé ̧ ºASÀÄ ̧ ÀAWÀ, 
+    Row   18  |  Column: Address
+             Value : 6£ÉÃ CqÀØgÀ ̧ÉÛ, J.PÉ. PÁ ̱ÉÆÃ¤, gÁ§mïð ̧À��ï ¥ÉÃã ¥ÉÈmé, PÉ.f.J¥sï PÉÆÃ ̄ÁgÀ f 
+    Row   19  |  Column: Name of the Association
+             Value : ¥ÀzÁäªÀw PÉÆA f.ªÉAPÀlgÁªÀÄÄ ²æÃ CgÀÄAzÀw ªÀÄ»1/4Á ̧ ÀAWÀ
+    Row   19  |  Column: Address
+             Value :  CgÀ1/2PÀmÉÖ, CUÁæºÁgÀ ©Ã¢, ZÀ£ÀßgÁAiÀÄ¥ÀlÖt vÁ®ÆèPÀÄ
+    Row   20  |  Column: Name of the Association
+             Value : C£À£Àå CgÀAzsÀw ªÀÄ»1/4Á ̧Àé- ̧ÀºÁAiÀÄ ̧ÀAWÀ, 
+    Row   20  |  Column: Address
+             Value : QgÀÄUÁªÀ®Ä ªÀÄ1/4ÀªÀ1/2î vÁ|| ªÀÄAqÀå f||
+    Row   21  |  Column: Name of the Association
+             Value : vÀÈ¦Û CgÀÄAzsÀw ªÀÄÄ»1/4Á ̧ Àé-̧ ÀºÁAiÀÄ ̧ ÀAWÀ, 
+    Row   21  |  Column: Address
+             Value : ªÀiÁgÀÄw£ÀUÀgÀ UÀÄvÀÛ®Ä ªÀÄAqÀå f||
+
+SHEET: SKDC Airavata 2022-23
+----------------------------------------------------------------------
+  STATUS: COMPLETELY EMPTY SHEET
+
+======================================================================
+NOTE: Garbled text uses custom Kannada font encoding (Nudi/Baraha).
+To fix: re-export source data using Unicode (UTF-8) encoding.
+======================================================================
